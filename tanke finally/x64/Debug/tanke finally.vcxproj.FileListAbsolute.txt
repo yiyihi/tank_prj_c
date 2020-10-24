@@ -1,0 +1,2 @@
+F:\Tank\0111\tanke finally\x64\Debug\tanke finally.exe
+F:\Tank\0111\tanke finally\x64\Debug\tanke finally.pdb
